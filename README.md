@@ -25,6 +25,7 @@ Construído utilizando o framework Vue.js e suas bibliotecas.
 # Árvore de arquivos
 
 <dl>
+
   <dt>node_modules</dt>
   <dd>possui todas as dependências do código criada pelo Node.</dd>
   <dt>📁public</dt>
