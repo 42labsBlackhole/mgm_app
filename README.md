@@ -105,8 +105,12 @@ app.route('/vouchers/:userId').get(controller.getVouchers);`
 	- token para encurtador de links.
 
 ## Contributors
-- [Jhonatan](https://github.com/jhonatan229)
-- [Nayran](https://github.com/nayran)
-- [Rafael](https://github.com/giyeo)
+
 - [Eduardo](https://github.com/dumendes99)
 - [Gustavo](https://github.com/GustavoAriadno)
+- [Jhonatan](https://github.com/jhonatan229)
+- [Matheus](https://github.com/Matth0s)
+- [Nayran](https://github.com/nayran)
+- [Rafael](https://github.com/giyeo)
+
+
