@@ -104,3 +104,7 @@ app.route('/vouchers/:userId').get(controller.getVouchers);`
 - VUE_APP_BITLY_TOKEN
 	- token para encurtador de links.
 
+## Contributors
+- Jhonatan
+- Nayran
+- Rafael
