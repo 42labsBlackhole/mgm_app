@@ -107,6 +107,7 @@ app.route('/vouchers/:userId').get(controller.getVouchers);`
 ## Contributors
 
 - [Eduardo](https://github.com/dumendes99)
+- [Guilherme](https://github.com/GuiMartinelli)
 - [Gustavo](https://github.com/GustavoAriadno)
 - [Jhonatan](https://github.com/jhonatan229)
 - [Matheus](https://github.com/Matth0s)
